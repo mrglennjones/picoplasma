@@ -9,6 +9,7 @@
 # I chose - 10m Addressable RGB LED Star Wire (AKA NeoPixel, WS2812B, SK6812) 
 # https://shop.pimoroni.com/products/10m-addressable-rgb-led-star-wire?variant=41375620530259
 #
+# flash the pimoroni pico firmware to the plasma2040 - pico-v1.23.0-1-pimoroni-micropython.uf2
 # 
 # copy to your plasma 2040 as main.py
 # set the NUM_LEDS to the amount or leds youe led strip has 
