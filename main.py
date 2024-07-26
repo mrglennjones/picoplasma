@@ -12,7 +12,7 @@
 # flash the pimoroni pico firmware to the plasma2040 - pico-v1.23.0-1-pimoroni-micropython.uf2
 # 
 # copy to your plasma 2040 as main.py
-# set the NUM_LEDS to the amount or leds youe led strip has 
+# set the NUM_LEDS to the amount or leds your led strip has 
 #
 # by default the plasma2040 will display a randomised shooting star trail effect with a variable colour blink
 #
